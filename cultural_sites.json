@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Taj Mahal",
+        "location": { "latitude": 27.1751, "longitude": 78.0421 },
+        "description": "A UNESCO World Heritage Site, this stunning white marble mausoleum is a symbol of love.",
+        "category": "Historical"
+    },
+    {
+        "name": "Khajuraho Temples",
+        "location": { "latitude": 24.8521, "longitude": 79.9219 },
+        "description": "Known for their intricate carvings, these temples represent India's rich artistic heritage.",
+        "category": "Religious"
+    },
+    {
+        "name": "Varanasi Ghats",
+        "location": { "latitude": 25.3176, "longitude": 82.9739 },
+        "description": "A spiritual city on the banks of the Ganges, famous for its ghats and evening Aarti.",
+        "category": "Spiritual"
+    },
+    {
+        "name": "Hampi Ruins",
+        "location": { "latitude":  15.3350, "longitude": 76.4600 },
+        "description": "An ancient city with mesmerizing stone temples and a rich Vijayanagara history.",
+        "category": "Archaeological"
+    }
+
+]
