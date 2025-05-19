@@ -30,7 +30,7 @@ page = st.sidebar.selectbox("Choose a section", ["🏠 Home", "📍 Cultural Hot
 # Home Page
 if page == "🏠 Home":
     st.title("Discover India's Art & Culture 🇮🇳")
-    st.image("assets/images/UNESCO.jpg", use_column_width=True)
+    st.image("UNESCO.jpg", use_column_width=True)
     st.markdown("""
         India is home to a vast array of traditional art forms, sacred places, and cultural experiences.
         This interactive dashboard helps you explore these gems and promote responsible tourism.
